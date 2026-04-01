@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**FairFacts-Data/FairFacts-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# FairFacts Consulting – AI, Privacy & Data Governance Portfolio
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio. This page highlights my work in AI evaluation, privacy, data governance, and responsible AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+Founder & Principal Consultant at FairFacts Consulting, focused on privacy program development, AI governance, data governance, and responsible AI practices.
+
+## Portfolio Areas:
+* AI / LLM Evaluation
+* Privacy & PII Analysis
+* AI Governance & Risk Assessment
+* Data Governance
+* Python Data Analysis
+* SQL Data Analysis
+* Prompt Testing & Model Evaluation
+
+## Current Repository:
+**AI-LLM-EVALUATION-PORTFOLIO**
+* Summarization Evaluation
+* Classification Evaluation
+* PII Extraction Evaluation
+* Evaluation Rubrics
+* Evaluation Methodology
+
+## Planned Projects:
+* Hallucination Testing
+* Bias Testing
+* Prompt Comparison Testing
+* Contract Information Extraction
+* AI Governance Checklist
+* AI Risk Assessment Template
+* Python Data Analysis Projects
+* SQL Data Analysis Projects
+
+## Connect With Me:
+LinkedIn: http://www.linkedin.com/in/chiemeka-okoronkwo
+Company: FairFacts Consulting LLC (https://www.fairfactsconsulting.com/)
