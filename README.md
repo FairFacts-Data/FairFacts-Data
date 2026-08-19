@@ -17,12 +17,22 @@ Founder & Principal Consultant at FairFacts Consulting, focused on privacy progr
 * Prompt Testing & Model Evaluation
 
 ## Current Repository:
-**AI-LLM-EVALUATION-PORTFOLIO**
+AI / LLM Evaluation:
 * Summarization Evaluation
 * Classification Evaluation
 * PII Extraction Evaluation
-* Evaluation Rubrics
-* Evaluation Methodology
+* Prompt Comparison Testing
+* Evaluation Rubrics and Methodology
+
+AI Governance & Risk: 
+* AI Governance Risk Assessment Framework
+* AI Risk Register and Risk Scoring
+* Responsible AI / Regulatory Alignment
+
+AI Data & Annotation:
+* LLM Annotation & Evaluation Dataset
+* Annotation Guidelines and QA
+* Evaluation Reporting and Analysis
 
 ## Planned Projects:
 * Hallucination Testing
